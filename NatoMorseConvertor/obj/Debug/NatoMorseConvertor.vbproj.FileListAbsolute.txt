@@ -1,0 +1,16 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\bin\Debug\NatoMorseConvertor.exe.config
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\bin\Debug\NatoMorseConvertor.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\bin\Debug\NatoMorseConvertor.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\bin\Debug\NatoMorseConvertor.xml
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\FinalProject.ConvertorForm.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\FinalProject.Resources.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\NatoMorseConvertor.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\NatoMorseConvertor.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\NatoMorseConvertor.xml
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\NatoMorseConvertor.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\FinalProject.AboutBoxForm.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\FinalProject.SplashScreenForm.resources
+C:\Users\Admin\Desktop\davesbackup\Projects\NatoMorseConvertor\NatoMorseConvertor\bin\Debug\NatoMorseConvertor.exe.config
+C:\Users\Admin\Desktop\davesbackup\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\NatoMorseConvertor.exe
+C:\Users\Admin\Desktop\davesbackup\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\NatoMorseConvertor.xml
+C:\Users\Admin\Desktop\davesbackup\Projects\NatoMorseConvertor\NatoMorseConvertor\obj\Debug\NatoMorseConvertor.pdb
