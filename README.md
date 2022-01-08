@@ -3,7 +3,7 @@ This application will take any string and provide a corresponding NATO Phonetic 
 
  -Example images: 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/dclarkduffy/Nato-Morse-Code-Utiility/blob/master/example_one.PNG)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/dclarkduffy/Nato-Morse-Code-Utiility/blob/master/example_two.PNG)
 
